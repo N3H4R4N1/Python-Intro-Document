@@ -21,7 +21,10 @@
 ---
 
 ## Introduction
-Python is a high-level, interpreted, and general-purpose programming language known for its simplicity and readability. It is widely used by beginners and professionals across various industries.
+
+This document provides a basic introduction to Python programming language.  
+It is designed to help beginners understand what Python is, why it is used, and where it is commonly applied.  
+The document focuses on Python’s core features and real-world use cases without going into advanced technical details.
 
 ---
 

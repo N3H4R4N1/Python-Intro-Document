@@ -102,11 +102,13 @@ python3 --version
 
 ## References
 
-- [https://www.python.org/doc/] 
 
-- [https://docs.python.org/3/tutorial/] 
+| Reference Link | Description |
+|---------------|-------------|
+| https://www.python.org/doc/ | Official Python documentation |
+| https://docs.python.org/3/tutorial/ | Official Python beginner tutorial |
+| https://www.python.org/about/ | Information about Python history and community |
 
-- [https://www.python.org/about/]
 
 ### Contact
 

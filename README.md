@@ -49,26 +49,30 @@ Python is popular because:
 - The name “Python” was inspired by the comedy show *Monty Python*
 - Python has grown into one of the most widely used programming languages
 
----
-
 ## Features
-- Simple and easy-to-read syntax
-- Interpreted language
-- Object-oriented and functional programming support
-- Platform independent
-- Extensive libraries and frameworks
-- Open-source
+
+| Feature | Description |
+|-------|-------------|
+| Simple Syntax | Easy-to-read and beginner-friendly syntax |
+| Interpreted Language | Executes code line by line |
+| Multi-Paradigm Support | Supports object-oriented and functional programming |
+| Platform Independent | Runs on Windows, Linux, and macOS |
+| Rich Ecosystem | Extensive libraries and frameworks |
+| Open Source | Free to use and community-driven |
 
 ---
 
 ## Use Cases
-Python is commonly used in:
-- Web Development (Django, Flask)
-- Data Analysis and Visualization
-- Machine Learning and Artificial Intelligence
-- Automation and Scripting
-- DevOps and Cloud Automation
-- Game Development
+
+| Use Case | Description |
+|---------|-------------|
+| Web Development | Build web applications using Django and Flask |
+| Data Analysis & Visualization | Analyze and visualize data |
+| Machine Learning & AI | Develop ML and AI-based solutions |
+| Automation & Scripting | Automate repetitive tasks |
+| DevOps & Cloud Automation | Used in CI/CD pipelines and cloud automation |
+| Game Development | Create simple games and prototypes |
+
 
 ---
 

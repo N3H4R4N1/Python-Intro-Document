@@ -104,9 +104,9 @@ python3 --version
 
 - [https://www.python.org/doc/] 
 
-- [https://docs.python.org/3/tutorial/] 
+- https://www.w3schools.com/java/
 
-- [https://www.python.org/about/]
+- https://www.digitalocean.com/community/tutorials/core-java-tutorial
 
 ### Contact
 

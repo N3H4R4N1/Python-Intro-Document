@@ -99,5 +99,5 @@ python3 --version
 
 | Name | Email Address | GitHub | URL |
 |------|---------------|--------|-----|
-| Neha | neha.kumari.snaatak@mygurukulam.co | — | — |
+| Neha | neha.kumari.snaatak@mygurukulam.co | neha197110 | https://github.com/neha197110 |
 

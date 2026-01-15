@@ -74,14 +74,17 @@ Python is widely used across multiple domains:
 ## Installation
 
 ### Install Python on Ubuntu
-```bash
+```
 sudo apt update
 sudo apt install python3 -y
 
+```
 
 ## Verify installation:
-
+```
 python3 --version
+
+```
 
 
 ## References

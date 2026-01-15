@@ -28,6 +28,20 @@ The document focuses on Python’s core features and real-world use cases withou
 
 ---
 
+## Pre-requisites
+
+Before learning or using Python, ensure the following prerequisites are met:
+
+| Requirement | Description |
+|------------|-------------|
+| Operating System | Windows, Linux, or macOS |
+| Python Installation | Python 3.x installed on the system |
+| Basic Computer Knowledge | Understanding of files and folders |
+| Internet Access | Required for installing packages and learning resources |
+| Code Editor / IDE | VS Code, PyCharm, or any text editor |
+
+---
+
 ## What is Python?
 Python is a programming language that allows developers to write clear and logical code. It supports multiple programming paradigms and runs on various platforms such as Windows, Linux, and macOS.
 

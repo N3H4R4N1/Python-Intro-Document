@@ -83,12 +83,11 @@ sudo apt install python3 -y
 ```
 python3 --version
 
-```
 
 ## References
 
-https://www.python.org/doc/
+- [https://www.python.org/doc/] (#https://www.python.org/doc/)
 
-https://docs.python.org/3/tutorial/
+  https://docs.python.org/3/tutorial/
 
 https://www.python.org/about/

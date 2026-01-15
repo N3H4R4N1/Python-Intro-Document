@@ -105,9 +105,9 @@ python3 --version
 
 | Reference Link | Description |
 |---------------|-------------|
-| https://www.python.org/doc/ | Official Python documentation |
-| https://docs.python.org/3/tutorial/ | Official Python beginner tutorial |
-| https://www.python.org/about/ | Information about Python history and community |
+| [GeeksforGeeks – systemctl](https://www.geeksforgeeks.org/linux-unix/systemctl-in-unix/) | Beginner-friendly explanation of systemctl commands |
+| [DigitalOcean – systemctl Guide](https://www.digitalocean.com/community/tutorials/how-to-use-systemctl-to-manage-systemd-services-and-units) | Detailed guide on managing systemd services |
+
 
 
 ### Contact

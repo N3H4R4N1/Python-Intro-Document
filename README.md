@@ -91,8 +91,9 @@ Yes, Python runs on multiple operating systems.
 ---
 
 ## Contact Information
-| Name | Email Address |
-|------|--------------|
-| Neha Kumari | neha.kumari.snaatak@mygurukulam.co |
+
+| Name | Email Address | GitHub | URL |
+|------|---------------|--------|-----|
+| Neha | neha.kumari.snaatak@mygurukulam.co | neha197110 | https://github.com/neha197110 |
 
 

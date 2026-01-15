@@ -5,10 +5,9 @@
 | Neha   | 15-01-2026 | v1.0    | Neha             | —                 | —           | —           | —           |
 
 
-# Python Introduction
-
 ## Table of Contents
 - [Introduction](#introduction)
+- [Pre-requisites](#pre-requisites)
 - [What is Python?](#what-is-python)
 - [Why Python?](#why-python)
 - [History](#history)
@@ -17,6 +16,7 @@
 - [FAQs](#faqs)
 - [References](#references)
 - [Contact Information](#contact-information)
+
 
 ---
 

@@ -14,6 +14,7 @@
 - [System Requirements](#system-requirements)
 - [Installation](#installation)
 - [References](#references)
+- [Contact](#contact)
 
 ---
 

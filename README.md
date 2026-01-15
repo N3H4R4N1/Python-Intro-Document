@@ -80,7 +80,7 @@ sudo apt install python3 -y
 
 
 ## Verify installation:
-```
+
 python3 --version
 
 

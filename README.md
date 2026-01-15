@@ -77,11 +77,16 @@ Python is widely used across multiple domains:
 ### Install Python on Ubuntu
 ```
 sudo apt update
+
+```
+
+<img width="1407" height="634" alt="image" src="https://github.com/user-attachments/assets/14a46e31-d231-4890-94f9-770e26c4db2d" />
+
+
+```
 sudo apt install python3 -y
 
 ```
-<img width="1407" height="634" alt="image" src="https://github.com/user-attachments/assets/14a46e31-d231-4890-94f9-770e26c4db2d" />
-
 
 <img width="1462" height="406" alt="image" src="https://github.com/user-attachments/assets/3936cbe6-6d82-4b55-9016-63d68b7d2067" />
 

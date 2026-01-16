@@ -14,9 +14,8 @@
 - [Features](#features)
 - [Use Cases](#use-cases)
 - [FAQs](#faqs)
-- [References](#references)
 - [Contact Information](#contact-information)
-
+- [References](#references)
 
 ---
 

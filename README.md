@@ -100,7 +100,15 @@ Yes, Python is open-source and free to use.
 **Q3. Is Python platform independent?**  
 Yes, Python runs on multiple operating systems.
 
----
+
+
+## Contact Information
+
+| Name | Email Address | GitHub | URL |
+|------|---------------|--------|-----|
+| Neha | neha.kumari.snaatak@mygurukulam.co | neha197110 | https://github.com/neha197110 |
+
+
 
 ## References
 | Reference Link | Description |
@@ -109,12 +117,6 @@ Yes, Python runs on multiple operating systems.
 | [Python Tutorial](https://docs.python.org/3/tutorial/) | Beginner-friendly tutorial |
 | [About Python](https://www.python.org/about/) | Python history and overview |
 
----
 
-## Contact Information
-
-| Name | Email Address | GitHub | URL |
-|------|---------------|--------|-----|
-| Neha | neha.kumari.snaatak@mygurukulam.co | neha197110 | https://github.com/neha197110 |
 
 
